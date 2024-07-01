@@ -8,7 +8,6 @@ This repository contains the frontend application of a webpage built using React
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
